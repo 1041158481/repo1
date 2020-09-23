@@ -1,3 +1,0 @@
-zkz
-
-this is git test.txt
